@@ -2,8 +2,6 @@
 
 TestApp — Java IDL practical 01 sample application.
 
-මෙය IDL practical 01 සඳහා Java උදාහරණ යෙදුමකි.
-
 ## Project structure
 - `TestApp/` — Java source files (generated stubs and helpers)
 	- `_TestStub.java`
